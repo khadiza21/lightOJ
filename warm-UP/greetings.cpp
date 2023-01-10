@@ -14,7 +14,7 @@ int main()
         }
         else if (totalProbs < 10)
         {
-            cout << totalProbs << " " << 0 << endl;
+            cout << totalProbs << " " << 0 << endl
         }
         else
         {
